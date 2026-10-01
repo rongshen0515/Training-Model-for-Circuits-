@@ -4,6 +4,8 @@ This project trains a simple Convolutional Neural Network (CNN) to classify hand
 
 The dataset is based on the JUHCCR-v1 circuit component recognition dataset.
 
+Eventually I will develop a stronger model to read schematics instead of just symbols.
+
 ## Classes Used
 
 This project uses 6 circuit component classes:
